@@ -1,0 +1,27 @@
+{
+  "name": "saras-quest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klintT/saras-quest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klintT/saras-quest/issues"
+  },
+  "homepage": "https://github.com/klintT/saras-quest#readme"
+}
